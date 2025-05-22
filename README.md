@@ -1,0 +1,2 @@
+# slideshow-python
+python project
